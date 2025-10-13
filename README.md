@@ -1,9 +1,76 @@
 # Protfolio
-*Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel with hands-on experience in data cleaning, exploratory data analysis, dashboard development, and visualization. Good at delivering data-driven insights to support business intelligence, reporting, and decision-making. Seeking to apply analytical expertise in a dynamic organization to drive strategic outcomes.*
+# 👋 Hi, I'm Revanth KS
+🎓 **Data Science Student | Aspiring Data Analyst**  
+    Davanagere, Karnataka, India  
+📧 revanthks547@gmail.com | 📞 +91 63627 67582  
+🔗 [LinkedIn](http://www.linkedin.com/in/revanth-ks) | 💻 [GitHub](https://github.com/revanth2003ks)
 
-- 📫 How to reach me *revanthks547@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧠 About Me
+- 💡 Motivated **Data Analyst** skilled in **Python, SQL, Power BI, and Excel**.  
+- 📊 Experienced in building **interactive dashboards**, performing **data cleaning**, **EDA**, and uncovering **business insights**.  
+- 🚀 Passionate about **data visualization**, **business intelligence**, and **data-driven decision-making**.  
+- 🎯 Looking for opportunities to apply analytical skills to solve real-world business challenges.  
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Python (Pandas, NumPy), SQL  
+- **Databases:** MySQL  
+- **Data Analytics:** EDA, Data Cleaning, SQL Joins, CTEs, Window Functions  
+- **Visualization Tools:** Power BI (ETL, DAX, KPI Reporting), Excel (Pivot Tables, Power Query, Macros), Tableau  
+- **Other Skills:** Data Storytelling, Dashboard Design, Business Reporting  
+
+---
+
+## 🎓 Education
+**B.E. in Computer Science & Engineering (Data Science)**  
+_Bapuji Institute of Engineering and Technology, Davanagere_  
+📅 Dec 2022 – May 2026 | 🎯 GPA: 8.63 / 10.00  
+
+**Pre-University (Science)** – Sir MV PU College, Davanagere (86.5%)  
+**Secondary Education** – Sri Mahadeva Kesari High School, Davanagere (92.32%)  
+
+---
+
+## 💼 Experience
+### 🧩 Data Analytics Intern | Kulture Hire (Jan 2025 – Mar 2025)
+- Performed **exploratory data analysis** on survey data to understand Gen Z career aspirations.  
+- Developed **Excel** and **Power BI dashboards** to communicate actionable insights.  
+- Contributed to **data storytelling** and decision-support reports.  
+
+---
+
+## 📈 Projects
+
+### 🎯 Career Aspiration Analytics – *Kulture Hire Internship*
+- Cleaned, standardized, and analyzed **3000+ survey responses** using **Excel and SQL**.  
+- Created **Executive Dashboard (Excel)** and **Functional Dashboards (Power BI)**.  
+- Delivered insights into **Gen Z career preferences**.  
+🔗 [View Project](https://github.com/revanth2003ks/Kulture-Hire-Internship)
+
+---
+
+### 💰 Financial Data Analysis Dashboard – *Tata Virtual Internship*
+- Built **Power BI dashboards** for 2011 sales data (revenue, profit, top customers, regional demand).  
+- Delivered **stakeholder-focused insights** supporting strategic business decisions.  
+🔗 [View Project](https://github.com/revanth2003ks/Tata-Company-Virtual-Internship)
+
+---
+
+## 📜 Certifications
+- **Data Visualization: Empowering Business with Effective Insights** – Tata  
+- **Excel Skills Job Simulation** – JPMorgan Chase & Co.  
+- **Data Analytics & Visualization** – Accenture  
+- **SQL Bootcamp: MySQL (Beginner to Advanced)**  
+- **Python Programming** – HackerRank  
+
+--- 
+
+
+
+## 🌐 Connect With Me
 <p align="left">
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/revanth-ks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/revanth-ks/" height="30" width="40" /></a>
