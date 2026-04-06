@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** Python (Pandas, NumPy), SQL  
+- **Programming:** Python (Pandas, NumPy,Matplotlib,Seaborn), SQL  
 - **Databases:** MySQL  
 - **Data Analytics:** EDA, Data Cleaning, SQL Joins, CTEs, Window Functions  
 - **Visualization Tools:** Power BI (ETL, DAX, KPI Reporting), Excel (Pivot Tables, Power Query, Macros), Tableau  
@@ -58,6 +58,23 @@ _Bapuji Institute of Engineering and Technology, Davanagere_
 🔗 [View Project](https://github.com/revanth2003ks/Tata-Company-Virtual-Internship)
 
 ---
+
+### 🏠 House Price Prediction – Machine Learning Project
+- Developed a machine learning model to predict house prices based on housing and location features.
+- Performed extensive data cleaning by handling missing values, removing columns with more than 80% null values, and applying forward fill techniques where appropriate.
+- Conducted exploratory data analysis to identify relationships between property features and sale price.
+- Applied feature engineering and trained regression models to improve prediction accuracy.
+- Used Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+🔗 [View Project](https://github.com/revanth2003ks/House_Price_Prediction)
+
+---
+
+### 📉 Telco Customer Churn Prediction – Machine Learning Project
+- Built an end-to-end customer churn prediction project using telecom customer data.
+- Performed data cleaning, exploratory data analysis, and feature selection to identify key factors influencing churn.
+- Analyzed customer behavior based on phone service, internet service, online security, online backup, payment methods, and demographics.
+- Developed machine learning models to classify customers likely to churn and evaluated model performance using classification metrics.
+ [View Project](https://github.com/revanth2003ks/Telco_Churn_Analysis)
 
 ## 📜 Certifications
 - **Data Visualization: Empowering Business with Effective Insights** – Tata  
