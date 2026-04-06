@@ -65,6 +65,7 @@ _Bapuji Institute of Engineering and Technology, Davanagere_
 - Conducted exploratory data analysis to identify relationships between property features and sale price.
 - Applied feature engineering and trained regression models to improve prediction accuracy.
 - Used Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+  
 🔗 [View Project](https://github.com/revanth2003ks/House_Price_Prediction)
 
 ---
@@ -74,6 +75,7 @@ _Bapuji Institute of Engineering and Technology, Davanagere_
 - Performed data cleaning, exploratory data analysis, and feature selection to identify key factors influencing churn.
 - Analyzed customer behavior based on phone service, internet service, online security, online backup, payment methods, and demographics.
 - Developed machine learning models to classify customers likely to churn and evaluated model performance using classification metrics.
+  
  [View Project](https://github.com/revanth2003ks/Telco_Churn_Analysis)
 
 ## 📜 Certifications
