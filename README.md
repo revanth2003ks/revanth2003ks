@@ -76,7 +76,7 @@ _Bapuji Institute of Engineering and Technology, Davanagere_
 - Analyzed customer behavior based on phone service, internet service, online security, online backup, payment methods, and demographics.
 - Developed machine learning models to classify customers likely to churn and evaluated model performance using classification metrics.
   
- [View Project](https://github.com/revanth2003ks/Telco_Churn_Analysis)
+🔗 [View Project](https://github.com/revanth2003ks/Telco_Churn_Analysis)
 
 ## 📜 Certifications
 - **Data Visualization: Empowering Business with Effective Insights** – Tata  
