@@ -1,4 +1,4 @@
-# Revanth KS
+# 👋 Hi, I'm Revanth KS
 
 **Data Science Graduate | Data Analyst | Analytics Engineer**
 
