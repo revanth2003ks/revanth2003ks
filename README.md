@@ -2,10 +2,10 @@
 
 **Data Science Graduate | Data Analyst | Analytics Engineer**
 
-Location: Davanagere, Karnataka, India
-Email: revanthks547@gmail.com
-LinkedIn: [linkedin.com/in/revanth-ks](http://www.linkedin.com/in/revanth-ks)
-GitHub: [github.com/revanth2003ks](https://github.com/revanth2003ks)
+Location: Davanagere, Karnataka, India  
+Email: revanthks547@gmail.com  
+LinkedIn: [linkedin.com/in/revanth-ks](http://www.linkedin.com/in/revanth-ks)  
+GitHub: [github.com/revanth2003ks](https://github.com/revanth2003ks)   
 
 ---
 
