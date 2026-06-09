@@ -1,89 +1,129 @@
-# Protfolio
-# 👋 Hi, I'm Revanth KS
-🎓 **Data Science Student | Aspiring Data Analyst**  
-    Davanagere, Karnataka, India  
-📧 revanthks547@gmail.com | 📞 +91 63627 67582  
-🔗 [LinkedIn](http://www.linkedin.com/in/revanth-ks) | 💻 [GitHub](https://github.com/revanth2003ks)
+# Revanth KS
+
+**Data Science Graduate | Data Analyst | Analytics Engineer**
+
+Location: Davanagere, Karnataka, India
+Email: revanthks547@gmail.com
+LinkedIn: [linkedin.com/in/revanth-ks](http://www.linkedin.com/in/revanth-ks)
+GitHub: [github.com/revanth2003ks](https://github.com/revanth2003ks)
 
 ---
 
-## 🧠 About Me
-- 💡 Motivated **Data Analyst** skilled in **Python, SQL, Power BI, and Excel**.  
-- 📊 Experienced in building **interactive dashboards**, performing **data cleaning**, **EDA**, and uncovering **business insights**.  
-- 🚀 Passionate about **data visualization**, **business intelligence**, and **data-driven decision-making**.  
-- 🎯 Looking for opportunities to apply analytical skills to solve real-world business challenges.  
+## About Me
+
+Computer Science and Engineering (Data Science) graduate with hands-on experience in data analytics, business intelligence, and data engineering. Skilled at transforming raw data into actionable insights through dashboards, ETL pipelines, and data warehouse solutions. Currently seeking roles in Data Analytics, Business Analysis, or Data Engineering.
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming:** Python (Pandas, NumPy,Matplotlib,Seaborn), SQL  
-- **Databases:** MySQL  
-- **Data Analytics:** EDA, Data Cleaning, SQL Joins, CTEs, Window Functions  
-- **Visualization Tools:** Power BI (ETL, DAX, KPI Reporting), Excel (Pivot Tables, Power Query, Macros), Tableau  
-- **Other Skills:** Data Storytelling, Dashboard Design, Business Reporting  
+## Technical Skills
+
+| Category | Tools and Technologies |
+|---|---|
+| Languages | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, T-SQL |
+| Databases | MySQL, SQL Server (SSMS) |
+| BI and Visualization | Power BI (DAX, ETL, KPI Reporting), Excel (Pivot Tables, Power Query, Macros), Tableau |
+| Data Engineering | ETL Pipelines, Data Warehousing, Star Schema, Medallion Architecture |
+| Analytics | EDA, Data Cleaning, Window Functions, CTEs, Joins, Feature Engineering |
+| Machine Learning | Scikit-learn, Regression, Classification |
+| Version Control | Git, GitHub |
 
 ---
 
-## 🎓 Education
-**B.E. in Computer Science & Engineering (Data Science)**  
-_Bapuji Institute of Engineering and Technology, Davanagere_  
-📅 Dec 2022 – May 2026 | 🎯 GPA: 8.63 / 10.00  
+## Experience
 
-**Pre-University (Science)** – Sir MV PU College, Davanagere (86.5%)  
-**Secondary Education** – Sri Mahadeva Kesari High School, Davanagere (92.32%)  
+**Data Analytics Intern — Kulture Hire** (Jan 2025 – Mar 2025)
 
----
-
-## 💼 Experience
-### 🧩 Data Analytics Intern | Kulture Hire (Jan 2025 – Mar 2025)
-- Performed **exploratory data analysis** on survey data to understand Gen Z career aspirations.  
-- Developed **Excel** and **Power BI dashboards** to communicate actionable insights.  
-- Contributed to **data storytelling** and decision-support reports.  
+- Performed exploratory data analysis on 3,000+ survey responses to uncover Gen Z career aspiration trends.
+- Built Excel and Power BI dashboards to communicate findings to stakeholders.
+- Contributed to data storytelling and decision-support reports.
 
 ---
 
-## 📈 Projects
+## Featured Projects
 
-### 🎯 Career Aspiration Analytics – *Kulture Hire Internship*
-- Cleaned, standardized, and analyzed **3000+ survey responses** using **Excel and SQL**.  
-- Created **Executive Dashboard (Excel)** and **Functional Dashboards (Power BI)**.  
-- Delivered insights into **Gen Z career preferences**.  
-🔗 [View Project](https://github.com/revanth2003ks/Kulture-Hire-Internship)
+### [Modern Data Warehouse and Analytics Solution](https://github.com/revanth2003ks)
+SQL Server | Medallion Architecture | ETL | Star Schema
 
----
+End-to-end data warehousing project built on SQL Server following Bronze, Silver, and Gold Medallion Architecture.
 
-### 💰 Financial Data Analysis Dashboard – *Tata Virtual Internship*
-- Built **Power BI dashboards** for 2011 sales data (revenue, profit, top customers, regional demand).  
-- Delivered **stakeholder-focused insights** supporting strategic business decisions.  
-🔗 [View Project](https://github.com/revanth2003ks/Tata-Company-Virtual-Internship)
+- Designed scalable ETL pipelines using T-SQL Stored Procedures to ingest, cleanse, and transform CRM and ERP data from CSV sources.
+- Performed comprehensive data quality checks including duplicate detection, null handling, referential integrity validation, and business rule enforcement.
+- Developed a Star Schema with Customer and Product dimensions and a centralized Sales fact table for analytical reporting.
+- Built Gold Layer views enabling analysis of customer behavior, product performance, and sales trends.
+- Applied advanced SQL techniques including Window Functions, CTEs, CASE expressions, Joins, and error handling.
 
----
-
-### 🏠 House Price Prediction – Machine Learning Project
-- Developed a machine learning model to predict house prices based on housing and location features.
-- Performed extensive data cleaning by handling missing values, removing columns with more than 80% null values, and applying forward fill techniques where appropriate.
-- Conducted exploratory data analysis to identify relationships between property features and sale price.
-- Applied feature engineering and trained regression models to improve prediction accuracy.
-- Used Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
-  
-🔗 [View Project](https://github.com/revanth2003ks/House_Price_Prediction)
+Technologies: SQL Server, T-SQL, SSMS, ETL Pipelines, Data Warehousing, Star Schema, Git, GitHub
 
 ---
 
-### 📉 Telco Customer Churn Prediction – Machine Learning Project
-- Built an end-to-end customer churn prediction project using telecom customer data.
-- Performed data cleaning, exploratory data analysis, and feature selection to identify key factors influencing churn.
-- Analyzed customer behavior based on phone service, internet service, online security, online backup, payment methods, and demographics.
-- Developed machine learning models to classify customers likely to churn and evaluated model performance using classification metrics.
-  
-🔗 [View Project](https://github.com/revanth2003ks/Telco_Churn_Analysis)
+### [Career Aspiration Analytics](https://github.com/revanth2003ks/Kulture-Hire-Internship)
+Excel | SQL | Power BI | Kulture Hire Internship
 
-## 📜 Certifications
-- **Data Visualization: Empowering Business with Effective Insights** – Tata  
-- **Excel Skills Job Simulation** – JPMorgan Chase & Co.  
-- **Data Analytics & Visualization** – Accenture  
-- **SQL Bootcamp: MySQL (Beginner to Advanced)**  
-- **Python Programming** – HackerRank  
+Data analytics project analyzing Gen Z career preferences using real-world survey data.
+
+- Cleaned and analyzed 3,000+ survey responses using Excel and SQL.
+- Built an Executive Dashboard in Excel and Functional Dashboards in Power BI.
+- Delivered actionable insights into Gen Z career priorities to support business decision-making.
+
+Technologies: Excel, SQL, Power BI, EDA, Data Storytelling
+
+---
+
+### [Financial Data Analysis Dashboard](https://github.com/revanth2003ks/Tata-Company-Virtual-Internship)
+Power BI | Business Intelligence | Tata Virtual Internship
+
+Power BI dashboards analyzing 2011 sales performance for executive stakeholder reporting.
+
+- Visualized revenue, profit, top customers, and regional demand trends.
+- Delivered stakeholder-ready reports to support strategic business decisions.
+
+Technologies: Power BI, Data Visualization, Business Intelligence
+
+---
+
+### [House Price Prediction](https://github.com/revanth2003ks/House_Price_Prediction)
+Python | Scikit-learn | Machine Learning
+
+Regression model predicting house prices based on property and location features.
+
+- Handled missing values, removed high-null columns, and applied feature engineering.
+- Trained and evaluated regression models to improve prediction accuracy.
+
+Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+---
+
+### [Telco Customer Churn Prediction](https://github.com/revanth2003ks/Telco_Churn_Analysis)
+Python | Scikit-learn | Machine Learning
+
+End-to-end churn classification project using telecom customer data.
+
+- Analyzed churn drivers across service types, payment methods, and customer demographics.
+- Developed and evaluated classification models using standard performance metrics.
+
+Technologies: Python, Scikit-learn, Classification, Feature Engineering
+
+---
+
+## Education
+
+**B.E. in Computer Science and Engineering (Data Science)**
+Bapuji Institute of Engineering and Technology, Davanagere
+GPA: 8.63 / 10.00 | 2022 – 2026
+
+---
+
+## Certifications
+
+- Data Visualization: Empowering Business with Effective Insights — Tata
+- Excel Skills Job Simulation — JPMorgan Chase and Co.
+- Data Analytics and Visualization — Accenture
+- SQL Bootcamp: MySQL (Beginner to Advanced)
+- Python Programming — HackerRank
+
+---
+
+Open to Data Analyst, Business Analyst, and Data Engineer opportunities. Feel free to connect.
 
 --- 
 
