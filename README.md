@@ -19,7 +19,7 @@ Computer Science and Engineering (Data Science) graduate with hands-on experienc
 
 | Category | Tools and Technologies |
 |---|---|
-| Languages | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, T-SQL |
+| Languages | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
 | Databases | MySQL, SQL Server (SSMS) |
 | BI and Visualization | Power BI (DAX, ETL, KPI Reporting), Excel (Pivot Tables, Power Query, Macros), Tableau |
 | Data Engineering | ETL Pipelines, Data Warehousing, Star Schema, Medallion Architecture |
