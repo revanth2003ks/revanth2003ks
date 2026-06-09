@@ -107,9 +107,9 @@ Technologies: Python, Scikit-learn, Classification, Feature Engineering
 
 ## Education
 
-**B.E. in Computer Science and Engineering (Data Science)**
-Bapuji Institute of Engineering and Technology, Davanagere
-GPA: 8.63 / 10.00 | 2022 – 2026
+**B.E. in Computer Science and Engineering (Data Science)**  
+Bapuji Institute of Engineering and Technology, Davanagere  
+GPA: 8.63 / 10.00 | 2022 – 2026  
 
 ---
 
