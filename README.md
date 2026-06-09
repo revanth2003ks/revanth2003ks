@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Revanth KS
 
-**Data Science Graduate | Data Analyst | Analytics Engineer**
+**Data Science Graduate | Aspiring Data Analyst & Analytics Engineer**
 
 Location: Davanagere, Karnataka, India  
 Email: revanthks547@gmail.com  
